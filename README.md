@@ -7,7 +7,7 @@
 - 🌍 Environmental Engineer - GIS Specialist
 - 👨🏻‍💻 Programmer
 - 🛰 GIS Specialist at Geonoma, a carbon projects developer company
-- ⚙ I'm working on SAR image classification with artificial intelligence
+- ⚙ I'm working with carbon stock assessment using cutting-edge techniques with optical and radar satellite images
 - 🤩 Passionate about Geoprocessing and Remote Sensing
 
 <div style="display: inline_block"><br>
